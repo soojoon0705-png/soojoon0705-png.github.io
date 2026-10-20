@@ -1,0 +1,41 @@
+{
+  "product": "BlobHUD",
+  "packages": [
+    {
+      "platform": "macOS",
+      "version": "0.8.4",
+      "language": "KO",
+      "status": "LOCAL",
+      "file": "BlobHUD_0.8.4_macOS_KO_LOCAL.zip",
+      "bytes": 222332,
+      "sha256": "37cf07f7c1abddc0217c8f75cb0e9c6ebfcedabaafc4c5dad7bb071b107d54a7"
+    },
+    {
+      "platform": "macOS",
+      "version": "0.8.4",
+      "language": "EN",
+      "status": "LOCAL",
+      "file": "BlobHUD_0.8.4_macOS_EN_LOCAL.zip",
+      "bytes": 219257,
+      "sha256": "44796ec56744d99eff9087a120cd57da2be6231a50fc1869086dde16ea13fbec"
+    },
+    {
+      "platform": "Windows",
+      "version": "0.8.5",
+      "language": "KO",
+      "status": "TEST",
+      "file": "BlobHUD_0.8.5_Windows_KO_TEST.zip",
+      "bytes": 3848436,
+      "sha256": "0b4a36465886ffc07eb3d487fc1c507d84961a91867dd4762ade7a6105095a36"
+    },
+    {
+      "platform": "Windows",
+      "version": "0.8.5",
+      "language": "EN",
+      "status": "TEST",
+      "file": "BlobHUD_0.8.5_Windows_EN_TEST.zip",
+      "bytes": 3845269,
+      "sha256": "21eafcb8d566afb819ff7b7f2f5316b2f93db3561ece1b8387ad8ad070c47bac"
+    }
+  ]
+}
